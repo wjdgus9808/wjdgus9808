@@ -38,7 +38,7 @@
   ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
   
   ### 🚌 Top Langs & Algorithm
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=______&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdgus9808&layout=compact)
   [![Solved.ac
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgus980812)](https://solved.ac/profile/______)
 </div>
