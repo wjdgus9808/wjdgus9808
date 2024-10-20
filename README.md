@@ -43,5 +43,5 @@
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgus980812)](https://solved.ac/profile/______)
 
 
-  !(https://github-readme-stats.vercel.app/api?username=wjdgus9808&show_icons=true&theme=dracula)
+  ![](https://github-readme-stats.vercel.app/api?username=wjdgus9808&show_icons=true&theme=dracula)
 </div>
