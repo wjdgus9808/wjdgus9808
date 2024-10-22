@@ -35,7 +35,7 @@
   ### 🚌 Top Langs & Algorithm
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjdgus9808&layout=compact)
   [![Solved.ac
-  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgus980812)](https://solved.ac/profile/______)
+  프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdgus980812)](https://solved.ac/profile/wjdgus980812)
 
 
   ![](https://github-readme-stats.vercel.app/api?username=wjdgus9808&show_icons=true&theme=dracula)
