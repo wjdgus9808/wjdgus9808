@@ -7,11 +7,11 @@
   
   
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/wjdgus9808?pet-id=642280192286365438"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/wjdgus9808"
+  width="600"
+  height="300"
+/>
 </a>
   
   
